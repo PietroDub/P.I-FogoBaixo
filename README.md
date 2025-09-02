@@ -106,3 +106,55 @@ E-mail marketing e notificações push.
 Programas de indicação e compartilhamento de receitas.
 
 Relacionamento com o cliente:
+Atendimento direto via chat integrado ou FAQ.
+Programas de fidelidade com pontos e recompensas.
+Conteúdo interativo (receitas, dicas e promoções).
+Suporte rápido e personalizado para problemas com pedidos.
+
+Fontes de receita:
+Taxa sobre cada pedido realizado no aplicativo.
+Parcerias com mercados e estabelecimentos (assinatura mensal).
+Espaço publicitário dentro da plataforma (produtos em destaque).
+Programas premium para usuários (entrega mais rápida, cupons exclusivos).
+Parcerias com marcas de alimentos e utensílios.
+
+Recursos Chave:
+Equipe de desenvolvimento e manutenção da aplicação.
+Infraestrutura tecnológica (servidores, banco de dados, APIs de geolocalização).
+Integração com sistemas de pagamento online.
+Base de usuários ativos (clientes, mercados, entregadores).
+Conteúdo de receitas e material interativo.
+
+Estruturas de custo:
+Custos de desenvolvimento e manutenção da aplicação.
+Hospedagem, servidores e integração de APIs (geolocalização, pagamentos).
+Marketing digital e campanhas publicitárias.
+Equipe de suporte e atendimento.
+Parcerias e contratos com fornecedores.
+
+4 Design:
+4.1- Paleta de cores (a ser preenchido...)
+4.2- Tipografia (a ser escolhido...)
+4.3- Logo (por hora apenas template)
+
+4.4- Wireframe
+O wireframe serve como uma base para como uma estrutura inicial da aplicação FogoBaixo poderia se parecer, sendo desenvolvido em sala de aula, possibilitou otimizar e facilitar a experiencia do usuário. Atualmente ela se localiza no link à baixo: 
+https://www.figma.com/design/pcAL45RIRkzJonJIfegYL8/Wireframe---Protocolo-Rural?node-id=0-1&t=fn86gsElgTURtnbu-1 
+
+5.0 Modelo de navegação:
+(image)
+(descrição)
+
+6.0 Prototipagem:
+O protótipo do projeto foi criado através da plataforma de design e prototipagem Figma. O link segue logo à baixo. 
+https://www.figma.com/design/vUViGgaIlrKPADdi3aWy3O/Untitled?node-id=0-1&t=ATtDGzXCgMVPFe7U-1 
+
+7.0 Aplicação:
+A página para o GitHub do projeto se encontra no link abaixo: 
+
+Considerações finais:
+No desenvolvimento do Fogo-Baixo, aplicamos metodologias de desenvolvimento multiplataforma para criar uma experiência culinária estruturada. O projeto superou desafios significativos, especialmente com prazos curtos e equipe reduzida, exigindo constante adaptação. 
+ Convertemos receitas tradicionais em formatos digitais interativos, organizando-as em seções como "Painel de Controle", "Avaliações" e "Resultados" - algo inédito para nossa equipe. O tempo foi nosso maior desafio, com todo o sistema sendo reconstruído e aprimorado em apenas três semanas. 
+ Utilizamos metodologias ágeis com ciclos curtos de desenvolvimento e ajustes contínuos. Cada etapa trouxe oportunidades para refinar as receitas e técnicas culinárias, transformando desafios em melhorias práticas. 
+ Mesmo com as limitações, continuamos a expandir nosso acervo com novas páginas, banco de dados de receitas e funcionalidades interativas. Tudo para oferecer uma abordagem inovadora na  culinária caseira brasileira. 
+ 
