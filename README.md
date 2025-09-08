@@ -34,6 +34,7 @@ Principais funcionalidades:
 ### 1.3 Cronograma do Projeto
 📌 O cronograma detalhado está disponível em:  
 👉 **[Receitas P1 | Trello](#)**  
+<img src="./assets/mockup1.jpg" alt="Tela inicial" width="300"/>
 
 ---
 
@@ -167,11 +168,18 @@ Um **documento de requisitos de sistema** registra as especificações que o sis
 
 ---
 
+### 4.2 BM Canvas
+- Modelo de negócios canva, organizando visualmente os objetivos e necessidades do projeto.
+<img src="./assets/mockup1.jpg" alt="Tela inicial" width="300"/>
+
 ## 🎨 Design
 
-- **Paleta de cores:** *(a ser definida)*  
-- **Tipografia:** *(a ser escolhida)*  
-- **Logo:** *(template inicial)*  
+- **Paleta de cores:** *(a ser definida)*
+- <img src="./assets/mockup1.jpg" alt="Tela inicial" width="300"/>
+- **Tipografia:** *(a ser escolhida)*
+- <img src="./assets/mockup1.jpg" alt="Tela inicial" width="300"/>
+- **Logo:** *(template inicial)*
+- <img src="./assets/mockup1.jpg" alt="Tela inicial" width="300"/>
 
 ### 4.4 Wireframe
 Wireframe disponível no Figma:  
@@ -181,18 +189,21 @@ Wireframe disponível no Figma:
 
 ## 🧭 Modelo de Navegação
 *(Inserir imagem e descrição do modelo de navegação)*  
+<img src="./assets/mockup1.jpg" alt="Tela inicial" width="300"/>
 
 ---
 
 ## 🖌️ Prototipagem
 Protótipo criado no Figma:  
 👉 [Acessar Protótipo](https://www.figma.com/design/vUViGgaIlrKPADdi3aWy3O/Untitled?node-id=0-1&t=ATtDGzXCgMVPFe7U-1)  
+<img src="./assets/mockup1.jpg" alt="Tela inicial" width="300"/>
 
 ---
 
 ## 💻 Aplicação
 Repositório do projeto disponível no GitHub:  
 👉 [Acessar Repositório](#)  
+<img src="./assets/mockup1.jpg" alt="Tela inicial" width="300"/>
 
 ---
 
