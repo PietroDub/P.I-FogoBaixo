@@ -1,6 +1,14 @@
 # 🍲 Fogo Baixo  
 **Projeto para atender necessidades na área da alimentação**
 
+<div>
+    <span style="font-size:30px">Centro Paula Souza</span><br>
+    <span style="font-size:30px">Faculdade de Tecnologia de Jahu</span><br>
+    <h2>Curso de Tecnologia em Desenvolvimento de Software Multiplataforma</h2>
+    <h2>Início: 1º Semestre / 2025</h2>
+</div>
+Documento da aplicação web
+
 ---
 
 ## 📖 Sumário
@@ -34,7 +42,7 @@ Principais funcionalidades:
 ### 1.3 Cronograma do Projeto
 📌 O cronograma detalhado está disponível em:  
 👉 **[Receitas P1 | Trello](#)**  
-<img src="./assets/mockup1.jpg" alt="Tela inicial" width="300"/>
+<img src="./imgs/trello.jpeg" alt="Tela inicial" width="300"/>
 
 ---
 
@@ -196,7 +204,7 @@ Wireframe disponível no Figma:
 ## 🖌️ Prototipagem
 Protótipo criado no Figma:  
 👉 [Acessar Protótipo](https://www.figma.com/design/vUViGgaIlrKPADdi3aWy3O/Untitled?node-id=0-1&t=ATtDGzXCgMVPFe7U-1)  
-<img src="./assets/mockup1.jpg" alt="Tela inicial" width="300"/>
+<img src="./imgs/home-page.png" alt="Tela inicial figma" width="300"/>
 
 ---
 
@@ -214,4 +222,4 @@ Durante o desenvolvimento do **Fogo Baixo**, utilizamos metodologias ágeis e it
 - Ciclos curtos de desenvolvimento com Scrum  
 - Expansão contínua de funcionalidades e banco de dados  
 
-➡️ O projeto visa oferecer uma **abordagem inovadora na culinária caseira brasileira**, unindo tecnologia, praticidade e experiência gastronômica.  
+➡️ O projeto visa oferecer uma **abordagem inovadora na culinária e nicho de delivery brasileiro**, unindo tecnologia, praticidade e experiência gastronômica.  
