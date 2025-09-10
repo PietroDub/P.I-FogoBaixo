@@ -1,11 +1,45 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home Page</title>
+    <!--Imports-->
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
-<body>
-    
+
+<body class="h-full bg-gray-800">
+    <header class="w-full h-1/8 bg-[#272DA4] text-white flex flex-col items-center justify-center">
+        <div class="flex items-center">
+            <a href="" class="w-2/8"><img class="w-full" src="../imgs/home/logo.svg" alt=""></a>
+            <input class="border-1 w-3/8 bg-[#D9D9D9] text-black" placeholder="Procure seu item aqui..." type="text">
+            <button class="w-1/8"><i class="fa-solid fa-cart-shopping"></i></button>
+            <a href=""  class="w-1/8"><i class="fa-solid fa-users"></i>Criar</a>
+            <a href=""  class="w-1/8"><i></i><i class="fa-solid fa-arrow-right-from-bracket"></i>Entrar</a>
+        </div>
+        <nav class="h-full border-t-2 w-full ">
+            <ol class="flex flex-row gap-10 items-center justify-center">
+                    <li>Bebidas</li>
+                    <li>Fast-Food</li>
+                    <li>Doces</li>
+                    <li>Gourmet</li>
+            </ol>
+        </nav>
+    </header>
+
+    <section> <!-- SEÇÃO PARA COLOCAR O CARRROSEL!!! -->
+
+    </section>
+
+    <main class="w-full">
+        <div class="w-100 flex flex-col">
+            <p>É a maior rede alimenticia do Brasil, sites de receitas, super mercados pela região, redes sociais acentuadas.</p>
+            <button class="w-40 border-1 rounded-lg p-2 px-4 bg-[#3572EF] text-white font-bold">Ver mais</button>
+        </div>
+    </main> 
+
 </body>
+
 </html>
