@@ -83,6 +83,9 @@ Um **documento de requisitos de sistema** registra as especificações que o sis
 | RF14 | Página “Quem somos” |
 | RF15 | Sistema de cupons/descontos |
 | RF16 | Administração de pedidos e estoque |
+| RF17 | Poder verificar pedidos antigos e os produtos nele contidos |
+| RF18 | Gerar agenda para encomenda de pedidos |
+
 
 ---
 
